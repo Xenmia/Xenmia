@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xenmia/portfolio](https://github.com/Xenmia/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Xenmia/portfolio](https://portfolio-zxfm.onrender.com/projects)
 
 - 📫 How to reach me **banagamaxim13@gmail.com**
 
